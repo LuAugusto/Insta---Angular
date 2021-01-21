@@ -1,0 +1,13 @@
+img{
+      position: absolute;
+      
+}
+
+.banner-background{
+      background-image: url('../../../assets/banner/fundo.png');
+      background-repeat: no-repeat;
+      height: 602px;
+      width:390px;
+      padding-top: 90px;
+      padding-left: 116px;
+}
